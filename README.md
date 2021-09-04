@@ -4,7 +4,7 @@ This is a Python/Django application intended to provide a working microservice f
 
 How To Use This
 
-First create local postgres database and update database credentials in settings.py file.
+First create local postgres database and update database credentials in environment file.
 Run makemigrations command "python manage.py makemigrations"
 & then run migrate command "python manage.py migrate"
 
